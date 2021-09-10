@@ -1,2 +1,3 @@
-[READ ME.pdf](https://github.com/Bjoyita/ThermoelectricDataAnalysis/files/7137847/READ.ME.pdf)
-# ThermoelectricDataAnalysis
+[READ ME.pdf](https://github.com/Bjoyita/ThermoelectricDataAnalysis/files/7144461/READ.ME.pdf)
+
+
