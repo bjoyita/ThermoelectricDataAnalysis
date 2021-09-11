@@ -13,8 +13,8 @@ y = ds_PF_ZT.iloc[:, -1]
 ds_PF_ZT
 
 
-pip install pymatgen
-pip install matminer
+## pip install pymatgen
+## pip install matminer
 
 from pymatgen.core.composition import Composition
 ds_PF_ZT['Formula']
