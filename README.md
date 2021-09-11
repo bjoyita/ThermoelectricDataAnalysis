@@ -6,6 +6,6 @@ pip install pymatgen; pip install matminer (follow the sequene)
 The code uses "composition" featurizers from pymatgen and matminer. 
 To learn more about the libraries, visit https://hackingmaterials.lbl.gov/matminer, https://pymatgen.org
 
-The code extracts elements and their atomic fractions from the compound formula given in the dataset. Here I show the use of random forrest algorithm to rank the features impacting the thermoelectric efficiency (ZT) 
+The code extracts elements and their atomic fractions from the compound formula given in the dataset. Here I show the use of random forest algorithm to rank the features impacting the thermoelectric efficiency (ZT) 
 
 The code uses scikit-learn to find the correlation matrix for different features. It also uses shap library to explain the output of the model.
