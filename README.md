@@ -1,4 +1,4 @@
-The code "FeatureImportnce.py" uses pymatgen, matminer, scikit-learn and shap libraries to rank the descriptors/predictors of 573 inorganic thermoelectric materials listed in the csv file PF_ZT.csv. This dataset is a subset of the original dataset used in https://github.com/ngs00/DopNet/tree/main/dataset. To run the code, one needs to install two open-source python-based materials packages - pymatgen and matminer.
+The code "FeatureImportance.py" uses pymatgen, matminer, scikit-learn and shap libraries to rank the descriptors/predictors of 573 inorganic thermoelectric materials listed in the csv file PF_ZT.csv. This dataset is a subset of the original dataset used in https://github.com/ngs00/DopNet/tree/main/dataset. To run the code, one needs to install two open-source python-based materials packages - pymatgen and matminer.
 
 To install pymatgen and matminer, you will require python > 3.7 and pip. Run the following to install pytmagen and matminer: pip install pymatgen; pip install matminer (follow the sequene)
 
